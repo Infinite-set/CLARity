@@ -1,6 +1,6 @@
 # CLARity: Reasoning Consistency Alone Can Teach Reinforced Experts
 
-This repository contains the official implementation of the paper "**CLARity: Reasoning Consistency Alone Can Teach Reinforced Experts**".
+This repository contains the official implementation of the paper "**CLARity: Reasoning Consistency Alone Can Teach Reinforced Experts**", accepted to the main conference of ACL 2026.
 
 ## 🚀 Quick Start
 
@@ -36,5 +36,13 @@ This repository contains the official implementation of the paper "**CLARity: Re
 If you use this code or find our work helpful, please cite our paper:
 
 ```bibtex
-@misc{TBD}
+@misc{lin2025clarityreasoningconsistencyteach,
+      title={CLARity: Reasoning Consistency Alone Can Teach Reinforced Experts}, 
+      author={Jiuheng Lin and Cong Jiang and Zirui Wu and Jiarui Sun and Yansong Feng},
+      year={2025},
+      eprint={2510.09278},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.09278}, 
+}
 ```
